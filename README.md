@@ -1,5 +1,6 @@
 # 💫 About Me:
 Aspiring Software Engineer with a solid foundation in Python, JavaScript, and C#. I enjoy building data-driven projects and simple full-stack applications, and I’m continuously improving my skills through hands-on work in analytics, web development, and cloud tooling.<br>I hold a Software Engineering Technician diploma from Centennial College and a Bachelor’s degree in Computer Science.<br>Currently focusing on expanding my portfolio with practical projects and contributing to open-source whenever possible.
+
 My Portfolio : https://khaledaltahrawi.github.io/portfolio/
 
 
